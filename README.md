@@ -1,7 +1,3 @@
-Aqui está a documentação completa e consolidada de todo o seu projeto, do **Dia 1 ao Dia 5**, organizada em formato **Markdown** para que você possa copiar e colar diretamente no seu repositório do GitHub.
-
----
-
 # 🚀 Relatório Final Consolidado: ArtChain Web3
 
 ## Cronograma de Desenvolvimento: Dia 1 ao Dia 5
